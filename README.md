@@ -1,4 +1,4 @@
 Pelter
 ======
 
-My source code trial
+version: 0.0.1-SNAPSHOT
